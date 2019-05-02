@@ -1,5 +1,9 @@
-Run pip install scrapy
-Run pip install matplotlib
+# Beginning installations
+Run the following commands in Terminal window:
+
+    $ pip install scrapy
+
+    $ pip install matplotlib
 
 # Weather Scraper
 This is a Scrapy project to scrape weather data from a government weather site (https://www.weather.gov/)
