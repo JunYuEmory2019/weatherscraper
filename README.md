@@ -4,7 +4,7 @@ This is a Scrapy project to scrape weather data from a government weather site (
 This project is meant to help us learn how to scrape webs but also gather relevant data for the upcoming week.
 
 
-# Beginning installations
+## Beginning installations
 Run the following commands in Terminal window:
 
     $ pip install scrapy
